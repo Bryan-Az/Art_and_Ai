@@ -10,8 +10,8 @@ class TitleDataset(Dataset):
 
     def __init__(self):
         # data loading
-        feature = pd.read_csv('../data_samples/results/en_titles.csv', index_col=0)
-        target = pd.read_csv('../data_samples/continents.csv')
+        feature = pd.read_csv('../../data_samples/results/en_titles.csv', index_col=0)
+        target = pd.read_csv('../../data_samples/continents.csv')
         ### here we turn the data into tokens?
         ### then we load as numpy after tokenization?
         self.x = feature
