@@ -1,0 +1,44 @@
+Demonym,percent_fromCountry,Country Name,Country,Continent,Continent Name
+American,0.709936288331886,United States,US,,North America
+French,0.10189964192676573,France,FR,EU,Europe
+Italian,0.04524699247753505,Italy,IT,EU,Europe
+German,0.04076375947625691,Germany,DE,EU,Europe
+British,0.029704467622179074,United Kingdom,GB,EU,Europe
+Dutch,0.016713336520542868,Netherlands,NL,EU,Europe
+Spanish,0.003873435258993297,Spain,ES,EU,Europe
+Swiss,0.003839286585425346,Switzerland,CH,EU,Europe
+Chinese,0.0019074473378669762,China,CN,AS,Asia
+Austrian,0.0018830554281755827,Austria,AT,EU,Europe
+Japanese,0.0016684066228913194,Japan,JP,AS,Asia
+Norwegian,0.0009561628599026275,Norway,NO,EU,Europe
+Belgian,0.0007707843462480365,Belgium,BE,EU,Europe
+Canadian,0.0006732167074824622,Canada,CA,,North America
+Swedish,0.0006537031797293473,Sweden,SE,EU,Europe
+Danish,0.0005805274506551667,Denmark,DK,EU,Europe
+Israeli,0.00039514893700057566,Israel,IL,AS,Asia
+Australian,0.00035612188149434593,Australia,AU,OC,Oceania
+Greek,0.0003463651176177885,Greece,GR,EU,Europe
+Polish,0.00030733806211155883,Poland,PL,EU,Europe
+Argentine,0.0002634326246670504,Argentina,AR,SA,South America
+Irish,0.00023904071497565687,Ireland,IE,EU,Europe
+Hungarian,0.00020977042334598462,Hungary,HU,EU,Europe
+South African,0.00017562174977803362,South Africa,ZA,AF,Africa
+Croatian,0.0001317163123335252,Croatia,HR,EU,Europe
+Romanian,7.317572907418067e-05,Romania,RO,EU,Europe
+Indian,5.366220132106583e-05,India,IN,AS,Asia
+Finnish,4.8783819382787115e-05,Finland,FI,EU,Europe
+Portuguese,4.3905437444508406e-05,Portugal,PT,EU,Europe
+Bulgarian,3.414867356795098e-05,Bulgaria,BG,EU,Europe
+New Zealander,1.9513527753114848e-05,New Zealand,NZ,OC,Oceania
+Malian,1.4635145814836135e-05,Mali,ML,AF,Africa
+Nigerian,1.4635145814836135e-05,Nigeria,NG,AF,Africa
+Egyptian,1.4635145814836135e-05,Egypt,EG,AF,Africa
+Albanian,1.4635145814836135e-05,Albania,AL,EU,Europe
+Latvian,1.4635145814836135e-05,Latvia,LV,EU,Europe
+Turkish,9.756763876557424e-06,Turkey,TR,AS,Asia
+Ethiopian,9.756763876557424e-06,Ethiopia,ET,AF,Africa
+Moroccan,9.756763876557424e-06,Morocco,MA,AF,Africa
+Armenian,4.878381938278712e-06,Armenia,AM,AS,Asia
+Lithuanian,4.878381938278712e-06,Lithuania,LT,EU,Europe
+New Zealand,4.878381938278712e-06,New Zealand,NZ,OC,Oceania
+Slovenian,4.878381938278712e-06,Slovenia,SI,EU,Europe
