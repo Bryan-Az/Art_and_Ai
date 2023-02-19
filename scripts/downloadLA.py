@@ -4,7 +4,7 @@ import requests
 import time
 
 # data to download LA art / contains path to place images into
-verified_la = pd.read_csv('../../data_samples/results/whole_set_results/downloaded_LaArt.csv')
+verified_la = pd.read_csv('../data_samples/results/whole_set_results/downloaded_LaArt.csv')
 # code which downloads the images & places them into directory
 
 
