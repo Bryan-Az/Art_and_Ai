@@ -13,7 +13,7 @@ def download_image(url, path, name, headers):
     if response.status_code == 200:
         with open(name, "wb") as f:
             f.write(response.content)
-        shutil.move(name, path)
+        shutil.move(name, path[2:])
     else:
         print(response.status_code)
 
