@@ -1,3 +1,6 @@
 /opendata/
 ./data_samples/results/whole_set_results/pa_nonLa_art.csv
-/data_samples/results/whole_set_results/downloaded_nonLa_art.csv
+./data_samples/results/whole_set_results/downloaded_nonLa_art.csv
+./la_Images
+./latinamerican-2-imagefolder-split
+./non_laImages
