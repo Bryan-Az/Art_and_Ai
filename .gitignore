@@ -5,3 +5,11 @@
 ./latinamerican-2-imagefolder-split
 ./non_laImages
 ./scripts/sql_scripts/.ipynb_checkpoints
+./data_samples/results/.ipynb_checkpoints
+./data_samples/results/processed_subset_results
+./data_samples/results/whole_set_results
+./notebooks/TorchTextModel/.ipynb_checkpoints
+./notebooks/data_manipulation/.ipynb_checkpoints
+./notebooks/scripts/.ipynb_checkpoints
+./notebooks/testing/.ipynb_checkpoints
+./scripts/sql_scripts/.ipynb_checkpoints

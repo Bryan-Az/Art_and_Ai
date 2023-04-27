@@ -1,0 +1,23 @@
+CREATE TABLE latin_art_people (
+objectid INT,
+constituentid INT,
+roletype TEXT,
+role TEXT,
+displaydate_artMade TEXT,
+beginyear_artMade INT,
+endyear_artMade INT,
+country_artMade TEXT,
+zipcode_artMade INT,
+ulanid INT,
+forwarddisplayname TEXT,
+artistofngaobject INT,
+birthyear INT,
+deathyear INT, 
+nationality TEXT,
+constituenttype TEXT,
+demonym TEXT,
+pct_country_NGA DECIMAL,
+artists_countryCode TEXT,
+artists_continent TEXT,
+artists_country TEXT
+);
