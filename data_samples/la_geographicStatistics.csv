@@ -1,12 +1,12 @@
-,Demonym,pct_country_NGA,Country,Continent,Country Name,Continent Name
-0,Mexican,0.002417194747501143,MX,NoAm,Mexico,North America
-1,Argentinean,0.0013065917554060233,AR,SA,Argentina,South America
-2,Brazilian,0.0009799438165545176,BR,SA,Brazil,South America
-3,Chilean,0.00039197752662180704,CL,SA,Chile,South America
-4,Cuban,0.00039197752662180704,CU,NoAm,Cuba,North America
-5,Venezuelan,0.00026131835108120466,VE,SA,"Venezuela, Bolivarian Republic of",South America
-6,Peruvian,0.00019598876331090352,PE,SA,Peru,South America
-7,Uruguayan,0.00013065917554060233,UY,SA,Uruguay,South America
-8,Guatemalan,0.00013065917554060233,GT,NoAm,Guatemala,North America
-9,Colombian,0.00013065917554060233,CO,SA,Colombia,South America
-10,Nicaraguan,6.532958777030116e-05,NI,NoAm,Nicaragua,North America
+Demonym,pct_country_NGA,Country,Continent,Country Name,Continent Name
+Mexican,0.002417194747501143,MX,NoAm,Mexico,North America
+Argentinean,0.0013065917554060233,AR,SA,Argentina,South America
+Brazilian,0.0009799438165545176,BR,SA,Brazil,South America
+Chilean,0.00039197752662180704,CL,SA,Chile,South America
+Cuban,0.00039197752662180704,CU,NoAm,Cuba,North America
+Venezuelan,0.00026131835108120466,VE,SA,"Venezuela, Bolivarian Republic of",South America
+Peruvian,0.00019598876331090352,PE,SA,Peru,South America
+Uruguayan,0.00013065917554060233,UY,SA,Uruguay,South America
+Guatemalan,0.00013065917554060233,GT,NoAm,Guatemala,North America
+Colombian,0.00013065917554060233,CO,SA,Colombia,South America
+Nicaraguan,6.532958777030116e-05,NI,NoAm,Nicaragua,North America

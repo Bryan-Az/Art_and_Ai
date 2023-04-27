@@ -1,4 +1,4 @@
-objectid,constituentid,roletype,role,displaydate_artMade,beginyear_artMade,endyear_artMade,country_artMade,zipcode_artMade,ulanid,forwarddisplayname,artistofngaobject,beginyear,endyear,nationality,constituenttype,demonym,pct_country_NGA,artists_countryCode,artists_continent,artists_country
+objectid,constituentid,roletype,role,displaydate_artMade,beginyear_artMade,endyear_artMade,country_artMade,zipcode_artMade,ulanid,forwarddisplayname,artistofngaobject,birthyear,deathyear,nationality,constituenttype,demonym,pct_country_NGA,artists_countryCode,artists_continent,artists_country
 53093,1112,artist,artist,"Chilean, 1937 - 1992",1937,1992,NULL,NULL,500077157,"Enrique Castro-Cid",1,1937,1992,Chilean,individual,Chilean,0,CL,SA,Chile
 133434,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
 48411,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
