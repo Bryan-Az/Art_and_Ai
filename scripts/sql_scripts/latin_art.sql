@@ -1,7 +1,5 @@
 /* This should be the final file containing relevent information about the artwork (physical and digital),
     and the artist. (objects (phys) + object constituents (links rels b/w art+artist)+ constituents (artist info) + published images (digital))
-    
-    TODO: Merge la_art_urls with objects
 */
 
 SELECT iiifurl,
