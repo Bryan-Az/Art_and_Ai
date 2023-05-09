@@ -48,8 +48,7 @@ artist_origin.columns = ['demonym', 'pct_country_NGA']
 ### Output Latin American Art data present within the NGA database (Data Prep)
 # Important: This file is used to add geographic data to other tables in DB
 la_geographicStatistics = pd.merge(artist_origin, latins, how='inner', on ='demonym')
-#la_geographicStatistics.to_csv('../data_samples/la_geographicStatistics.csv')
-la_geographicStatistics.to_csv('./la_geographicStatistics.csv')
+la_geographicStatistics.to_csv('../data_samples/la_geographicStatistics.csv')
 latinamerican_art = pd.read_csv('../data_samples/latin_art.csv', on_bad_lines='skip')
 # SQL Ran: (1) latin_art_people.sql (2) latin_art_urls.sql (3) latin_art.sql
 #converts the iiifurl to return the full image size
