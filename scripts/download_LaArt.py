@@ -35,7 +35,7 @@ print('Shape starting: ', shape_initial)
 print('Shape after edit 1: ', shape_change_1)
 
 # saves the selected parts to a new csv file to run the download script portion of downloadLa
-la_image_fpaths = la_image_metadata.loc[:, ['expanded_url', 'file_name', 'image_fp']]
+la_image_fpaths = la_image_metadata.loc[:, ['objectid', 'file_name', 'image_fp']]
 la_image_fpaths.to_csv('../data_samples/la_image_fpaths.csv', index=False)
 print('CSV Created: ../data_samples/la_image_fpaths.csv')
 la_image_metadata.to_csv('../data_samples/latinamerican_art.csv', index=False)
