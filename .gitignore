@@ -1,4 +1,11 @@
 /opendata/
+./data_samples/.ipynb_checkpoints/
+./notebooks/data_prep/.ipynb_checkpoints/
+./data_samples/LaArt/.ipynb_checkpoints/
+./scripts/add_data/.ipynb_checkpoints/
+./notebooks/data_prep/feature_engineering/.ipynb_checkpoints/
+./notebooks/data_prep/downloads/.ipynb_checkpoints
+./data_samples/results/whole_set_results/.ipynb_checkpoints/
 ./data_samples/results/whole_set_results/pa_nonLa_art.csv
 ./data_samples/results/whole_set_results/downloaded_nonLa_art.csv
 ./la_Images
@@ -9,7 +16,5 @@
 ./data_samples/results/processed_subset_results
 ./data_samples/results/whole_set_results
 ./notebooks/TorchTextModel/.ipynb_checkpoints
-./notebooks/data_manipulation/.ipynb_checkpoints
-./notebooks/scripts/.ipynb_checkpoints
 ./notebooks/testing/.ipynb_checkpoints
 ./scripts/sql_scripts/.ipynb_checkpoints

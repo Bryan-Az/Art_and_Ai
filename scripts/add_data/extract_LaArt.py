@@ -1,5 +1,5 @@
 ### Step 1 of the La Art Pipeline
-### Input is 3 files: (1) latin_art_people.sql -> .csv (2) latin_art_urls.sql-> .csv (3) latin_art.sql -> .csv
+### Input is 3 files: (1) constituent_nationalities.csv (2) latin_art.csv
 ### Output is 2 files: la_geographicStatistics.csv & latinamerican_art.csv
 import pandas as pd
 import numpy as np
@@ -7,7 +7,7 @@ import pycountry
 import pycountry_convert as pc
 import matplotlib
 
-nationalities = pd.read_csv('../data_samples/constituents_nationalities.csv')
+nationalities = pd.read_csv('../data_samples/LaArt/constituents_nationalities.csv')
 artist_origin = nationalities.value_counts(normalize=True)
 
 ### List of American Continent Codes for Determining which Latin American countries are present in the Gallery (cleaning)
@@ -48,9 +48,9 @@ artist_origin.columns = ['demonym', 'pct_country_NGA']
 ### Output Latin American Art data present within the NGA database (Data Prep)
 # Important: This file is used to add geographic data to other tables in DB
 la_geographicStatistics = pd.merge(artist_origin, latins, how='inner', on ='demonym')
-la_geographicStatistics.to_csv('../data_samples/la_geographicStatistics.csv')
-latinamerican_art = pd.read_csv('../data_samples/latin_art.csv', on_bad_lines='skip')
+la_geographicStatistics.to_csv('../data_samples/LaArt/la_geographicStatistics.csv')
+latinamerican_art = pd.read_csv('../data_samples/LaArt/latin_art.csv', on_bad_lines='skip')
 # SQL Ran: (1) latin_art_people.sql (2) latin_art_urls.sql (3) latin_art.sql
 #converts the iiifurl to return the full image size
 latinamerican_art['expanded_url'] = latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', 'full'))
-latinamerican_art.to_csv('../data_samples/latinamerican_art.csv', index=False)
+latinamerican_art.to_csv('../data_samples/LaArt/latinamerican_art.csv', index=False)

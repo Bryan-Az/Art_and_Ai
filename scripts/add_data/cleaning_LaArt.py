@@ -7,9 +7,10 @@ import torch.nn.functional as fun
 from sklearn.feature_extraction.text import CountVectorizer
 import scipy.stats as stats
 ### Step 3: Cleaning the data for input into a M.L algorithm.
-latinamerican_art = pd.read_csv('../data_samples/latinamerican_art.csv')
-
-imagefp_exists = pd.read_csv('../data_samples/validLa_image_fpaths.csv')
+# 2 Input: (1) latinamerican_art.csv, (2) validLa_image_fpaths.csv
+# 1 Output: (1) transformed_la_art.csv
+latinamerican_art = pd.read_csv('../data_samples/LaArt/latinamerican_art.csv')
+imagefp_exists = pd.read_csv('../data_samples/LaArt/validLa_image_fpaths.csv')
 
 stored_la_art = imagefp_exists.where(imagefp_exists.imagefp_exists == True).dropna(how='all')
 stored_la_art.reset_index(drop = True, inplace=True)
@@ -94,6 +95,6 @@ print('imagefp data shape: ', la_image_data.shape)
 print('one-hot data shape: ', oh_collection.shape)
 print('numerical data shape: ', numerical_data.shape)
 transformed_data = pd.concat([la_image_data, oh_collection, numerical_data], axis=1)
-transformed_data.to_csv('../data_samples/results/transformed_la_art.csv', index=False)
-print('CSV Created: ../data_samples/results/transformed_la_art.csv')
+transformed_data.to_csv('../data_samples/LaArt/transformed_la_art.csv', index=False)
+print('CSV Created: ../data_samples/LaArt/transformed_la_art.csv')
 print('Final shape of transformed data (including imagefp_exists and objectid columns)', transformed_data.shape)

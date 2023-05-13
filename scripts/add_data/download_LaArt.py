@@ -6,8 +6,10 @@ import shutil
 import requests
 import time
 #-- This File is Step 2 of the LaArt Pipeline --
+# 1 Input: (1) latinamerican_art.csv
+# 2 Output: (1) latinamerican_art.csv (2) la_image_fpaths.csv (3) validLa_image_fpaths.csv
 #import the metadata for La Art (this is a result of a MySql Database query script) with minor modifications
-la_image_metadata = pd.read_csv('../data_samples/latinamerican_art.csv')
+la_image_metadata = pd.read_csv('../data_samples/LaArt/latinamerican_art.csv')
 shape_initial = la_image_metadata.shape
 #dropping unneccessary columns (1 removed)
 la_image_metadata = la_image_metadata.drop(['accessioned'], axis = 1)
@@ -36,10 +38,10 @@ print('Shape after edit 1: ', shape_change_1)
 
 # saves the selected parts to a new csv file to run the download script portion of downloadLa
 la_image_fpaths = la_image_metadata.loc[:, ['objectid', 'file_name', 'image_fp']]
-la_image_fpaths.to_csv('../data_samples/la_image_fpaths.csv', index=False)
-print('CSV Created: ../data_samples/la_image_fpaths.csv')
-la_image_metadata.to_csv('../data_samples/latinamerican_art.csv', index=False)
-print('CSV Edited: ../data_samples/latinamerican_art.csv')
+la_image_fpaths.to_csv('../data_samples/LaArt/la_image_fpaths.csv', index=False)
+print('CSV Created: ../data_samples/LaArt/la_image_fpaths.csv')
+la_image_metadata.to_csv('../data_samples/LaArt/latinamerican_art.csv', index=False)
+print('CSV Edited: ../data_samples/LaArt/latinamerican_art.csv')
 
 ## for next code section in notebook, images will be downloaded
 ## I assume no images are downloaded & image_fp/directory not created
@@ -69,5 +71,24 @@ for i in range(0, len(la_image_fpaths)):
     # timer delay (15 seconds)
     time.sleep(15)
     download_image(expanded_url, fp, file_name, ua_header)
+    
+#checking that the filepath / naming conventions I used are consistent
+#from os.path import exists
+file_exists = []
+for i in range(len(la_image_metadata)):
+    directory = la_image_metadata.directory[i]
+    subfolder = la_image_metadata.subfolder[i]
+    filename = la_image_metadata.file_name[i]
+    full = directory + subfolder + '/' + filename
+    file_exists.append(exists(full))
 
+file_exists = pd.Series(file_exists, name='imagefp_exists')
+la_image_metadata['imagefp_exists'] = file_exists
+validLa_image_fpaths = la_image_metadata.loc[:, ['file_name', 'directory', 'subfolder','image_fp', 'imagefp_exists', 'objectid']]
+validLa_image_fpaths.to_csv('../data_samples/LaArt/validLa_image_fpaths.csv', index=False)
 
+perc_exists = file_exists.sum()/len(file_exists)
+total = 341
+whole_num_exists = perc_exists * total
+text = 'The amount of images downloaded is {} percent. Which means {} is amount downloaded, out of {} in latinamerican_art.csv'
+print(text.format(perc_exists, whole_num_exists, total))
