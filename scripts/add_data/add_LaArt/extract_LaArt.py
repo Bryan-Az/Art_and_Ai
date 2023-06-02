@@ -52,5 +52,5 @@ la_geographicStatistics.to_csv('../data_samples/LaArt/la_geographicStatistics.cs
 latinamerican_art = pd.read_csv('../data_samples/LaArt/latin_art.csv', on_bad_lines='skip')
 # SQL Ran: (1) latin_art_people.sql (2) latin_art_urls.sql (3) latin_art.sql
 #converts the iiifurl to return the full image size
-latinamerican_art['expanded_url'] = latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', 'full'))
+latinamerican_art['expanded_url'] = latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', '!256,256'))
 latinamerican_art.to_csv('../data_samples/LaArt/latinamerican_art.csv', index=False)
