@@ -36,8 +36,9 @@ shape_change_1 = la_image_metadata.shape
 print('Shape starting: ', shape_initial)
 print('Shape after edit 1: ', shape_change_1)
 
+#predownload table selects necessary cols to download the images send to location
 # saves the selected parts to a new csv file to run the download script portion of downloadLa
-la_image_fpaths = la_image_metadata.loc[:, ['objectid', 'file_name', 'image_fp']]
+la_image_fpaths = la_image_metadata.loc[:, ['expanded_url', 'file_name', 'image_fp', 'objectid']]
 la_image_fpaths.to_csv('../data_samples/LaArt/la_image_fpaths.csv', index=False)
 print('CSV Created: ../data_samples/LaArt/la_image_fpaths.csv')
 la_image_metadata.to_csv('../data_samples/LaArt/latinamerican_art.csv', index=False)
@@ -84,8 +85,10 @@ for i in range(len(la_image_metadata)):
 
 file_exists = pd.Series(file_exists, name='imagefp_exists')
 la_image_metadata['imagefp_exists'] = file_exists
-validLa_image_fpaths = la_image_metadata.loc[:, ['file_name', 'directory', 'subfolder','image_fp', 'imagefp_exists', 'objectid']]
-validLa_image_fpaths.to_csv('../data_samples/LaArt/validLa_image_fpaths.csv', index=False)
+
+#post download- columns added to explain directory & validate location
+la_image_fpaths = la_image_metadata.loc[:, ['expanded_url', 'file_name', 'directory', 'subfolder','image_fp', 'imagefp_exists', 'objectid']]
+la_image_fpaths.to_csv('../data_samples/LaArt/la_image_fpaths.csv', index=False)
 
 perc_exists = file_exists.sum()/len(file_exists)
 total = 341

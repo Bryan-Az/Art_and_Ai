@@ -49,7 +49,7 @@ artist_origin.columns = ['demonym', 'pct_country_NGA']
 # Important: This file is used to add geographic data to other tables in DB
 la_geographicStatistics = pd.merge(artist_origin, latins, how='inner', on ='demonym')
 la_geographicStatistics.to_csv('../../../data_samples/LaArt/la_geographicStatistics.csv')
-latinamerican_art = pd.read_csv('../../../data_samples/LaArt/latin_art.csv', on_bad_lines='skip')
+latinamerican_art = pd.read_csv('../../../data_samples/LaArt/la_art_tables/latin_art.csv', on_bad_lines='skip')
 # SQL Ran: (1) latin_art_people.sql (2) latin_art_urls.sql (3) latin_art.sql
 #converts the iiifurl to return the full image size
 latinamerican_art['expanded_url'] = latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', '!256,256'))

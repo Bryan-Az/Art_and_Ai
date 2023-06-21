@@ -1,0 +1,508 @@
+objectid,constituentid,roletype,role,displaydate_artMade,beginyear_artMade,endyear_artMade,country_artMade,zipcode_artMade,ulanid,forwarddisplayname,artistofngaobject,birthyear,deathyear,nationality,constituenttype,demonym,pct_country_NGA,artists_countryCode,artists_continent,artists_country
+53093,1112,artist,artist,"Chilean, 1937 - 1992",1937,1992,NULL,NULL,500077157,"Enrique Castro-Cid",1,1937,1992,Chilean,individual,Chilean,0,CL,SA,Chile
+133434,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48411,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48412,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48414,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48416,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48418,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48422,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+126931,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48423,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+53085,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48410,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48415,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48420,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48424,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48413,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48417,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48419,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48421,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48425,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+174321,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+48878,1707,artist,artist,"Chilean, 1911 - 2002",1911,2002,NULL,NULL,500057123,Matta,1,1911,2002,Chilean,individual,Chilean,0,CL,SA,Chile
+57135,1831,artist,artist,"Mexican, 1886 - 1957",1886,1957,NULL,NULL,500025126,"Diego Rivera",1,1886,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+10153,1831,artist,artist,"Mexican, 1886 - 1957",1886,1957,NULL,NULL,500025126,"Diego Rivera",1,1886,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+46537,1831,artist,artist,"Mexican, 1886 - 1957",1886,1957,NULL,NULL,500025126,"Diego Rivera",1,1886,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+71794,1831,artist,artist,"Mexican, 1886 - 1957",1886,1957,NULL,NULL,500025126,"Diego Rivera",1,1886,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+121051,1831,artist,painter,"Mexican, 1886 - 1957",1886,1957,NULL,NULL,500025126,"Diego Rivera",1,1886,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+121052,1831,artist,painter,"Mexican, 1886 - 1957",1886,1957,NULL,NULL,500025126,"Diego Rivera",1,1886,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+55604,1864,artist,artist,"Brazilian, born 1920",1920,NULL,NULL,NULL,500118070,"Carlos Scliar",1,1920,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+73135,1876,artist,artist,"Mexican, 1896 - 1974",1896,1974,NULL,NULL,500008908,"David Alfaro Siqueiros",1,1896,1974,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+52380,1876,artist,artist,"Mexican, 1896 - 1974",1896,1974,NULL,NULL,500008908,"David Alfaro Siqueiros",1,1896,1974,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30303,1876,artist,artist,"Mexican, 1896 - 1974",1896,1974,NULL,NULL,500008908,"David Alfaro Siqueiros",1,1896,1974,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30640,1876,artist,artist,"Mexican, 1896 - 1974",1896,1974,NULL,NULL,500008908,"David Alfaro Siqueiros",1,1896,1974,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+53089,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64167,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64162,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64168,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64169,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64173,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64175,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64179,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64181,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+10591,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+163543,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64160,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64164,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64170,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64174,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64176,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+53076,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64161,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64171,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64172,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64177,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64178,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+60891,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64163,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64165,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64166,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+64180,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+126930,1918,artist,artist,"Mexican, 1899 - 1991",1899,1991,NULL,NULL,500024331,"Rufino Tamayo",1,1899,1991,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150852,2518,artist,artist,"Uruguayan, 1874 - 1949",1874,1949,NULL,NULL,500031259,"Joaquín Torres-García",1,1874,1949,Uruguayan,individual,Uruguayan,0,UY,SA,Uruguay
+59857,2518,artist,artist,"Uruguayan, 1874 - 1949",1874,1949,NULL,NULL,500031259,"Joaquín Torres-García",1,1874,1949,Uruguayan,individual,Uruguayan,0,UY,SA,Uruguay
+61236,2768,artist,artist,"Chilean, born 1952",1952,NULL,NULL,NULL,500034419,"Francisca Sutil",1,1952,NULL,Chilean,individual,Chilean,0,CL,SA,Chile
+61467,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61473,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61475,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61481,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61484,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61486,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61488,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+57720,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61460,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61462,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61463,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61465,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61471,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61479,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61483,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61487,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61491,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61461,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61464,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61466,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61469,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61470,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61472,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61482,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61489,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61492,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61468,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61474,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61476,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61477,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61478,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61480,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61485,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+61490,2861,artist,artist,"Guatemalan, 1933 - 2020",1933,2020,NULL,NULL,500118427,"Rodolfo Abularach",1,1933,2020,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+42617,2894,artist,artist,"Mexican, 1901 - 1976",1901,1976,NULL,NULL,500202173,"Emilio Amero",1,1901,1976,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+3642,2894,artist,artist,"Mexican, 1901 - 1976",1901,1976,NULL,NULL,500202173,"Emilio Amero",1,1901,1976,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+221109,2894,artist,artist,"Mexican, 1901 - 1976",1901,1976,NULL,NULL,500202173,"Emilio Amero",1,1901,1976,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+221111,2894,artist,artist,"Mexican, 1901 - 1976",1901,1976,NULL,NULL,500202173,"Emilio Amero",1,1901,1976,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+46741,2911,artist,artist,"Chilean, 1918 - 1993",1918,1993,NULL,NULL,500082877,"Nemesio Antunez",1,1918,1993,Chilean,individual,Chilean,0,CL,SA,Chile
+37447,3044,artist,artist,"Argentinean, born 1917",1917,2017,NULL,NULL,NULL,"Armando Sica",1,1917,2017,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+30309,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33512,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33513,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33520,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+184007,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33515,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33519,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+184006,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33517,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33518,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33511,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33514,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33516,3452,artist,artist,"Mexican, 1908 - 2003",1908,2003,NULL,NULL,500065904,"Alfredo Zalce",1,1908,2003,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+146252,3453,artist,artist,"Chilean, 1921 - 2000",1921,2000,NULL,NULL,500080572,"Enrique Antunez Zanartú",1,1921,2000,Chilean,individual,Chilean,0,CL,SA,Chile
+48930,3453,artist,artist,"Chilean, 1921 - 2000",1921,2000,NULL,NULL,500080572,"Enrique Antunez Zanartú",1,1921,2000,Chilean,individual,Chilean,0,CL,SA,Chile
+4551,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+4556,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+11853,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+4552,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+4558,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+4553,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+4557,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+11852,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+4554,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+4555,3489,artist,artist,"Argentinean, 1899-1972",1899,1972,NULL,NULL,NULL,"Adolfo Bellocq",1,1899,1972,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+57797,3507,artist,artist,"Argentinean, 1905 - 1981",1905,1981,NULL,NULL,500015512,"Antonio Berni",1,1905,1981,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+57798,3507,artist,artist,"Argentinean, 1905 - 1981",1905,1981,NULL,NULL,500015512,"Antonio Berni",1,1905,1981,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+30247,3597,artist,artist,"Mexican, 1911 - 2005",1911,2005,NULL,NULL,NULL,"Ángel Bracho",1,1911,2005,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+41845,3679,artist,artist,"Mexican, 1908 - 1989",1908,1989,NULL,NULL,500118518,"Federico Cantú",1,1908,1989,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+57945,3682,artist,artist,"Argentinean, born 1928",1928,NULL,NULL,NULL,NULL,"Angelica Caporaso",1,1928,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+48893,3687,artist,artist,"Cuban, born 1927",1927,NULL,NULL,NULL,500035542,"Agustin Cardenas",1,1927,NULL,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+30249,3704,artist,artist,"Mexican, 1905 - 1947",1905,1947,NULL,NULL,500059286,"Julio Castellanos",1,1905,1947,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+9180,3740,artist,artist,"Mexican, born 1909",1909,2009,NULL,NULL,500078548,"José Chavez Morado",1,1909,2009,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+33363,3820,artist,artist,"Mexican, born 1913",1913,2013,NULL,NULL,500118509,"Olga Costa",1,1913,2013,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61917,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61919,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61924,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61930,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61933,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61934,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61910,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61911,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61916,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61926,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61927,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61935,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+174306,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+49451,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61914,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61915,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61918,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61920,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61922,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61923,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61925,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61928,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61929,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61932,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+107542,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+107543,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61912,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61913,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61921,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61931,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+107544,3845,artist,artist,"Mexican, 1934 - 2017",1934,2017,NULL,NULL,500021586,"José Luis Cuevas",1,1934,2017,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30252,3951,artist,artist,"Mexican, 1911 - 1986",1911,1986,NULL,NULL,500071567,"Francisco Dosamantes",1,1911,1986,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+183747,3951,artist,artist,"Mexican, 1911 - 1986",1911,1986,NULL,NULL,500071567,"Francisco Dosamantes",1,1911,1986,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+48916,4075,artist,artist,"Argentinean, born 1920",1920,NULL,NULL,NULL,500124517,"Leon Ferrari",1,1920,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+48918,4205,artist,artist,"Mexican, born 1929",1929,NULL,NULL,NULL,500118501,"Alberto Gironella",1,1929,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+48898,4576,artist,artist,"Argentinean, born 1926",1926,NULL,NULL,NULL,500465427,"Juan Carlos Langlois",1,1926,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+58637,4585,artist,artist,"Venezuelan, born 1936",1936,NULL,NULL,NULL,NULL,"Francisco Larez",1,1936,NULL,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+58638,4585,artist,artist,"Venezuelan, born 1936",1936,NULL,NULL,NULL,NULL,"Francisco Larez",1,1936,NULL,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+33117,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30693,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30696,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30697,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30704,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30714,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30715,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30694,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30699,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30702,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30706,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30709,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30712,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+183894,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30690,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30692,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30695,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30703,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30711,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30713,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30691,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30698,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30700,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30701,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30705,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30707,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30708,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30710,4962,artist,artist,"Mexican, 1902 - 1969",1902,1969,NULL,NULL,500111715,"Leopoldo Méndez",1,1902,1969,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+48921,5101,artist,artist,"Mexican, 1936 - 1985",1936,1985,NULL,NULL,500335123,"Rodolfo Nieto",1,1936,1985,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133435,5136,artist,artist,"Mexican, 1883 - 1949",1883,1949,NULL,NULL,500012316,"José Clemente Orozco",1,1883,1949,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30273,5136,artist,artist,"Mexican, 1883 - 1949",1883,1949,NULL,NULL,500012316,"José Clemente Orozco",1,1883,1949,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+154008,5136,artist,artist,"Mexican, 1883 - 1949",1883,1949,NULL,NULL,500012316,"José Clemente Orozco",1,1883,1949,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30639,5136,artist,artist,"Mexican, 1883 - 1949",1883,1949,NULL,NULL,500012316,"José Clemente Orozco",1,1883,1949,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+9504,5136,artist,artist,"Mexican, 1883 - 1949",1883,1949,NULL,NULL,500012316,"José Clemente Orozco",1,1883,1949,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30274,5136,artist,artist,"Mexican, 1883 - 1949",1883,1949,NULL,NULL,500012316,"José Clemente Orozco",1,1883,1949,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+145431,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58852,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58854,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58856,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58844,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58846,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58847,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58851,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58855,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58849,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58850,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58853,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58858,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58845,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58848,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+58857,5141,artist,artist,"Brazilian, 1920 - 2001",1920,2001,NULL,NULL,500469327,"Fayga Ostrower",1,1920,2001,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+152826,5265,artist,artist,"Mexican, 1851 - 1913",1851,1913,NULL,NULL,500032573,"José Guadalupe Posada",1,1851,1913,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+152827,5265,artist,artist,"Mexican, 1851 - 1913",1851,1913,NULL,NULL,500032573,"José Guadalupe Posada",1,1851,1913,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+163508,5265,artist,artist,"Mexican, 1851 - 1913",1851,1913,NULL,NULL,500032573,"José Guadalupe Posada",1,1851,1913,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+152829,5265,artist,artist,"Mexican, 1851 - 1913",1851,1913,NULL,NULL,500032573,"José Guadalupe Posada",1,1851,1913,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+30476,5265,artist,artist,"Mexican, 1851 - 1913",1851,1913,NULL,NULL,500032573,"José Guadalupe Posada",1,1851,1913,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+130886,5318,artist,artist,"Colombian, 1928 - 2010",1928,2010,NULL,NULL,500107510,"Omar Rayo",1,1928,2010,Colombian,individual,Colombian,0,CO,SA,Colombia
+48557,5318,artist,artist,"Colombian, 1928 - 2010",1928,2010,NULL,NULL,500107510,"Omar Rayo",1,1928,2010,Colombian,individual,Colombian,0,CO,SA,Colombia
+48683,5444,artist,artist,"Mexican, born 1922",1922,NULL,NULL,NULL,NULL,"Guillermo Silva Santamaría",1,1922,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+48684,5444,artist,artist,"Mexican, born 1922",1922,NULL,NULL,NULL,NULL,"Guillermo Silva Santamaría",1,1922,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+141284,5449,artist,printer,"Argentinean, born 1936",1936,NULL,NULL,NULL,NULL,"Hector Saunier",1,1936,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+58986,5449,artist,artist,"Argentinean, born 1936",1936,NULL,NULL,NULL,NULL,"Hector Saunier",1,1936,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+179431,5449,artist,printer,"Argentinean, born 1936",1936,NULL,NULL,NULL,NULL,"Hector Saunier",1,1936,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+195672,5449,artist,printer,"Argentinean, born 1936",1936,NULL,NULL,NULL,NULL,"Hector Saunier",1,1936,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+58984,5449,artist,artist,"Argentinean, born 1936",1936,NULL,NULL,NULL,NULL,"Hector Saunier",1,1936,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+58985,5449,artist,artist,"Argentinean, born 1936",1936,NULL,NULL,NULL,NULL,"Hector Saunier",1,1936,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+148744,5730,artist,artist,"Mexican, 1904 - 1957",1904,1957,NULL,NULL,500122721,"Miguel Covarrubias",1,1904,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+63086,5730,artist,artist,"Mexican, 1904 - 1957",1904,1957,NULL,NULL,500122721,"Miguel Covarrubias",1,1904,1957,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+63999,5820,artist,artist,"Mexican, born 1935",1935,NULL,NULL,NULL,500330827,"Artemio Sepulveda",1,1935,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+61986,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61988,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61993,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61996,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62006,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61990,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61991,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61998,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62000,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62003,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62004,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62005,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62008,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62009,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62011,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61987,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61997,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61999,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62002,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62014,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62015,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62016,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61985,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61989,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61992,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61994,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+61995,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62001,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62007,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62010,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62012,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+62013,5918,artist,artist,"Venezuelan, 1912 - 1994",1912,1994,NULL,NULL,500117602,Gego,1,1912,1994,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+70282,6579,artist,artist,"Argentinean, 1916 - 2001",1916,2001,NULL,NULL,500103613,"Libero Badii",1,1916,2001,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70283,6579,artist,artist,"Argentinean, 1916 - 2001",1916,2001,NULL,NULL,500103613,"Libero Badii",1,1916,2001,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70284,6580,artist,artist,"Argentinean, born 1920",1920,NULL,NULL,NULL,500117890,"José Antonio Fernández-Muro",1,1920,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70285,6580,artist,artist,"Argentinean, born 1920",1920,NULL,NULL,NULL,500117890,"José Antonio Fernández-Muro",1,1920,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70287,6581,artist,artist,"Argentinean, born 1921",1921,NULL,NULL,NULL,500117888,"Sarah Grilo",1,1921,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70286,6581,artist,artist,"Argentinean, born 1921",1921,NULL,NULL,NULL,500117888,"Sarah Grilo",1,1921,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70288,6582,artist,artist,"Argentinean, 1923 - 1993",1923,1993,NULL,NULL,500117887,"Alfredo Hlito",1,1923,1993,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70289,6582,artist,artist,"Argentinean, 1923 - 1993",1923,1993,NULL,NULL,500117887,"Alfredo Hlito",1,1923,1993,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70291,6583,artist,artist,"Argentinean, born 1922",1922,NULL,NULL,NULL,NULL,"Jose Maria Lanus",1,1922,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70290,6583,artist,artist,"Argentinean, born 1922",1922,NULL,NULL,NULL,NULL,"Jose Maria Lanus",1,1922,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70299,6585,artist,artist,"Argentinean, 1924 - 1996",1924,1996,NULL,NULL,500117955,"Leopoldo Torres Aguero",1,1924,1996,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70298,6585,artist,artist,"Argentinean, 1924 - 1996",1924,1996,NULL,NULL,500117955,"Leopoldo Torres Aguero",1,1924,1996,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70292,6586,artist,artist,"Argentinean, born 1922",1922,NULL,NULL,NULL,500117866,"Miguel Ocampo",1,1922,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70293,6586,artist,artist,"Argentinean, born 1922",1922,NULL,NULL,NULL,500117866,"Miguel Ocampo",1,1922,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70294,6587,artist,artist,"Argentinean, born 1915",1915,2015,NULL,NULL,500117956,"Leopoldo Presas",1,1915,2015,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70295,6587,artist,artist,"Argentinean, born 1915",1915,2015,NULL,NULL,500117956,"Leopoldo Presas",1,1915,2015,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70296,6588,artist,artist,"Argentinean, 1916 - 1998",1916,1998,NULL,NULL,NULL,"Ideal Sanchez",1,1916,1998,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+70297,6588,artist,artist,"Argentinean, 1916 - 1998",1916,1998,NULL,NULL,NULL,"Ideal Sanchez",1,1916,1998,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+74838,6962,artist,artist,"Argentinean, born 1911",1911,2011,NULL,NULL,NULL,"Raul Lozza",1,1911,2011,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+74837,6962,artist,artist,"Argentinean, born 1911",1911,2011,NULL,NULL,NULL,"Raul Lozza",1,1911,2011,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+135408,9371,artist,artist,"Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+135410,9371,artist,designer,"Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+135412,9371,artist,artist,"Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+45866,9371,owner,"previous owner","Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+51135,9371,owner,"previous owner","Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+125899,9371,artist,author,"Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+134810,9371,artist,artist,"Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+137583,9371,artist,artist,"Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+54129,9371,owner,"previous owner","Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+135409,9371,artist,illustrator,"Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+45867,9371,owner,"previous owner","Mexican, 1880 - 1961",1880,1961,NULL,NULL,500031425,"Marius de Zayas",1,1880,1961,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+163530,9698,artist,artist,"Cuban, 1902 - 1982",1902,1982,NULL,NULL,500006317,"Wifredo Lam",1,1902,1982,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+150708,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150711,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150716,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150703,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+194319,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+196159,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+196188,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+197747,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+197751,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+197753,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+224191,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+92294,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+136777,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150710,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+184467,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+196158,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150707,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150709,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150712,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150705,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+153112,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+196189,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150706,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150713,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150714,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150715,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150704,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+194318,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+194338,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+196160,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+197749,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+197750,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+197752,16466,artist,artist,"Mexican, 1902 - 2002",1902,2002,NULL,NULL,500028115,"Manuel Álvarez Bravo",1,1902,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+201187,16975,artist,artist,"Guatemalan, 1891 - 1984",1891,1984,NULL,NULL,500004593,"Carlos Merida",1,1891,1984,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+201188,16975,artist,artist,"Guatemalan, 1891 - 1984",1891,1984,NULL,NULL,500004593,"Carlos Merida",1,1891,1984,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+201186,16975,artist,artist,"Guatemalan, 1891 - 1984",1891,1984,NULL,NULL,500004593,"Carlos Merida",1,1891,1984,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+201189,16975,artist,artist,"Guatemalan, 1891 - 1984",1891,1984,NULL,NULL,500004593,"Carlos Merida",1,1891,1984,Guatemalan,individual,Guatemalan,0,GT,NoAm,Guatemala
+143119,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+175610,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211388,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211391,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104921,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+117257,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+139546,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143115,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143117,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143121,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143122,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143123,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+171744,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211390,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211392,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211393,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211395,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104916,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143120,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211389,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211394,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+211396,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104924,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104925,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104919,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104923,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+116507,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143116,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143118,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+173719,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104917,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104918,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104920,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+104922,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+109975,22253,artist,artist,"Mexican, born 1942",1942,NULL,NULL,NULL,500118440,"Graciela Iturbide",1,1942,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+116224,24648,artist,artist,"Mexican, 1923 - 2012",1923,2012,NULL,NULL,NULL,"Héctor García",1,1923,2012,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+221518,24695,artist,artist,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111088,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111091,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111096,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+201240,24695,artist,artist,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111089,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111094,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111095,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111090,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111092,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+111093,24695,artist,printer,"Brazilian, 1933 - 1995",1933,1995,NULL,NULL,500371891,"Roberto De Lamonica",1,1933,1995,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+134860,24756,artist,artist,"Peruvian, 1891 - 1973",1891,1973,NULL,NULL,500037196,"Martin Chambi",1,1891,1973,Peruvian,individual,Peruvian,0,PE,SA,Peru
+126503,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+126501,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+126506,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+126500,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+126502,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+126504,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+117249,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+126505,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+126507,24991,artist,artist,"Brazilian, born 1941",1941,NULL,NULL,NULL,NULL,"Abraao Batista",1,1941,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+117293,24996,artist,artist,"Cuban, born 1969",1969,NULL,NULL,NULL,500127970,"Ibrahim Miranda",1,1969,NULL,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+117294,24997,artist,artist,"Cuban, born 1974",1974,NULL,NULL,NULL,NULL,"Liset Castillo",1,1974,NULL,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+143119,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+139546,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143115,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143117,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143121,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143122,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143123,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+117298,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143120,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143116,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143118,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+117297,24999,artist,artist,"Mexican, born 1940",1940,NULL,NULL,NULL,500005528,"Francisco Toledo",1,1940,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+169871,25864,artist,artist,"Argentinean, born Belgium, 1902 - 1985",1902,1985,NULL,NULL,NULL,"Victor Delhez",1,1902,1985,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+181849,25864,artist,artist,"Argentinean, born Belgium, 1902 - 1985",1902,1985,NULL,NULL,NULL,"Victor Delhez",1,1902,1985,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+119885,25864,artist,artist,"Argentinean, born Belgium, 1902 - 1985",1902,1985,NULL,NULL,NULL,"Victor Delhez",1,1902,1985,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+145426,26394,artist,artist,"Brazilian, born 1935",1935,NULL,NULL,NULL,500356627,"Maria Bonomi",1,1935,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+117438,27342,artist,artist,"Brazilian, 1927 - 1982",1927,1982,NULL,NULL,NULL,"Aloísio Magalhaes",1,1927,1982,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+127530,27441,artist,sculptor,"Venezuelan, 1923 - 2005",1923,2005,NULL,NULL,500027187,"Jesús Rafael Soto",1,1923,2005,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+133867,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133868,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133881,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133864,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133866,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133878,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133879,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133865,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133869,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133877,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+133880,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+128543,28727,artist,artist,"Mexican, born 1980",1980,NULL,NULL,NULL,500472229,"Miguel Cervantes",1,1980,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143119,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+139546,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143115,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143117,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143121,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143122,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143123,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143120,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143116,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+143118,34339,artist,author,Mexican,NULL,NULL,NULL,NULL,NULL,"Alejandro de Ávila",1,NULL,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+150532,34779,artist,artist,"Brazilian, born 1960",1960,NULL,NULL,NULL,500034427,"Beatriz Milhazes",1,1960,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+216535,35145,artist,artist,"Argentinean, born 1961",1961,NULL,NULL,NULL,500117883,"Guillermo Kuitca",1,1961,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+154126,35145,artist,artist,"Argentinean, born 1961",1961,NULL,NULL,NULL,500117883,"Guillermo Kuitca",1,1961,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+153116,35252,artist,printer,"Mexican, founded 1937",1937,NULL,NULL,NULL,NULL,"Taller de Grafica Popular",1,1937,NULL,Mexican,corporate,Mexican,0,MX,NoAm,Mexico
+119789,35252,artist,printer,"Mexican, founded 1937",1937,NULL,NULL,NULL,NULL,"Taller de Grafica Popular",1,1937,NULL,Mexican,corporate,Mexican,0,MX,NoAm,Mexico
+143191,35252,artist,publisher,"Mexican, founded 1937",1937,NULL,NULL,NULL,NULL,"Taller de Grafica Popular",1,1937,NULL,Mexican,corporate,Mexican,0,MX,NoAm,Mexico
+154216,35395,artist,sculptor,"Brazilian, born 1964",1964,NULL,NULL,NULL,500115078,"Ernesto Neto",1,1964,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+175301,35395,artist,sculptor,"Brazilian, born 1964",1964,NULL,NULL,NULL,500115078,"Ernesto Neto",1,1964,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+157357,36273,artist,artist,"Mexican, born 1973",1973,NULL,NULL,NULL,500349250,"Daniela Rossell",1,1973,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+163302,38076,artist,artist,"Brazilian, 1937 - 1980",1937,1980,NULL,NULL,500111185,"Hélio Oiticica",1,1937,1980,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+163517,38161,artist,artist,"Cuban, 1950 - 1991",1950,1991,NULL,NULL,500336512,"Carlos Alfonzo",1,1950,1991,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+169092,38855,artist,artist,"Cuban, born 1967",1967,NULL,NULL,NULL,500127966,"Carlos Garaicoa",1,1967,NULL,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+222850,38855,artist,sculptor,"Cuban, born 1967",1967,NULL,NULL,NULL,500127966,"Carlos Garaicoa",1,1967,NULL,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+222852,38855,artist,artist,"Cuban, born 1967",1967,NULL,NULL,NULL,500127966,"Carlos Garaicoa",1,1967,NULL,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+169094,38855,artist,artist,"Cuban, born 1967",1967,NULL,NULL,NULL,500127966,"Carlos Garaicoa",1,1967,NULL,Cuban,individual,Cuban,0,CU,NoAm,Cuba
+221013,38881,artist,artist,"Mexican, born Austria-Hungary, 1912 - 2000",1912,2000,NULL,NULL,NULL,"Kati Horna",1,1912,2000,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+217263,38881,artist,artist,"Mexican, born Austria-Hungary, 1912 - 2000",1912,2000,NULL,NULL,NULL,"Kati Horna",1,1912,2000,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+221005,38881,artist,artist,"Mexican, born Austria-Hungary, 1912 - 2000",1912,2000,NULL,NULL,NULL,"Kati Horna",1,1912,2000,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+223250,38881,artist,artist,"Mexican, born Austria-Hungary, 1912 - 2000",1912,2000,NULL,NULL,NULL,"Kati Horna",1,1912,2000,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+210341,38881,artist,artist,"Mexican, born Austria-Hungary, 1912 - 2000",1912,2000,NULL,NULL,NULL,"Kati Horna",1,1912,2000,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+221003,38881,artist,artist,"Mexican, born Austria-Hungary, 1912 - 2000",1912,2000,NULL,NULL,NULL,"Kati Horna",1,1912,2000,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+223251,38881,artist,artist,"Mexican, born Austria-Hungary, 1912 - 2000",1912,2000,NULL,NULL,NULL,"Kati Horna",1,1912,2000,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+196156,39181,artist,artist,"Mexican, 1903 - 1993",1903,1993,NULL,NULL,500056681,"Lola Álvarez Bravo",1,1903,1993,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+220350,39181,artist,artist,"Mexican, 1903 - 1993",1903,1993,NULL,NULL,500056681,"Lola Álvarez Bravo",1,1903,1993,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+199162,39181,artist,artist,"Mexican, 1903 - 1993",1903,1993,NULL,NULL,500056681,"Lola Álvarez Bravo",1,1903,1993,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+196157,39181,artist,artist,"Mexican, 1903 - 1993",1903,1993,NULL,NULL,500056681,"Lola Álvarez Bravo",1,1903,1993,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+184671,40239,artist,artist,"Mexican, 1915 - 2006",1915,2006,NULL,NULL,500061635,"Raúl Anguiano",1,1915,2006,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+212110,40991,artist,artist,"Brazilian,  1942 - 2008",1942,2008,NULL,NULL,500066376,"Rubens Gerchman",1,1942,2008,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+212111,40991,artist,artist,"Brazilian,  1942 - 2008",1942,2008,NULL,NULL,500066376,"Rubens Gerchman",1,1942,2008,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+212112,40991,artist,artist,"Brazilian,  1942 - 2008",1942,2008,NULL,NULL,500066376,"Rubens Gerchman",1,1942,2008,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+173039,40991,artist,artist,"Brazilian,  1942 - 2008",1942,2008,NULL,NULL,500066376,"Rubens Gerchman",1,1942,2008,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+223741,41056,artist,artist,"Mexican, born United States, 1925 - 2002",1925,2002,NULL,NULL,500023797,"Mariana Yampolsky",1,1925,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+173316,41056,artist,artist,"Mexican, born United States, 1925 - 2002",1925,2002,NULL,NULL,500023797,"Mariana Yampolsky",1,1925,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+175632,41056,artist,artist,"Mexican, born United States, 1925 - 2002",1925,2002,NULL,NULL,500023797,"Mariana Yampolsky",1,1925,2002,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+174168,41247,artist,artist,"Mexican, born Costa Rica, 1913 - 1998",1913,1998,NULL,NULL,500020110,"Francisco Zúñiga",1,1913,1998,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+175609,41505,artist,artist,"Mexican, born 1957",1957,NULL,NULL,NULL,500294023,"Flor Garduño",1,1957,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+175619,41510,artist,artist,"Peruvian, born 1949",1949,NULL,NULL,NULL,500342516,"Javier Silva Meinel",1,1949,NULL,Peruvian,individual,Peruvian,0,PE,SA,Peru
+199318,46354,artist,artist,"Argentinean, born 1957",1957,NULL,NULL,NULL,NULL,"Maria Teresa Rizzi",1,1957,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+199315,46354,artist,artist,"Argentinean, born 1957",1957,NULL,NULL,NULL,NULL,"Maria Teresa Rizzi",1,1957,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+199324,46354,artist,artist,"Argentinean, born 1957",1957,NULL,NULL,NULL,NULL,"Maria Teresa Rizzi",1,1957,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+199322,46354,artist,artist,"Argentinean, born 1957",1957,NULL,NULL,NULL,NULL,"Maria Teresa Rizzi",1,1957,NULL,Argentinean,individual,Argentinean,0,AR,SA,Argentina
+201240,46691,artist,artist,"Uruguayan, born Germany, 1937",1937,NULL,NULL,NULL,500120217,"Luis Camnitzer",1,1937,NULL,Uruguayan,individual,Uruguayan,0,UY,SA,Uruguay
+221516,46691,artist,artist,"Uruguayan, born Germany, 1937",1937,NULL,NULL,NULL,500120217,"Luis Camnitzer",1,1937,NULL,Uruguayan,individual,Uruguayan,0,UY,SA,Uruguay
+70423,47414,artist,artist,NULL,1800,1899,NULL,NULL,NULL,"Peruvian 19th Century",1,1800,1899,Peruvian,anonymous,Peruvian,0,PE,SA,Peru
+165695,48199,artist,artist,"Brazilian, born 1951",1951,NULL,NULL,NULL,NULL,"Sergio Macedo",1,1951,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+173039,48572,artist,author,"Brazilian, born 1940",1940,NULL,NULL,NULL,NULL,"Armando Freitas Filho",1,1940,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+173520,49483,artist,printer,"Chilean, born 1939",1939,NULL,NULL,NULL,NULL,"Eugenio Tellez",1,1939,NULL,Chilean,individual,Chilean,0,CL,SA,Chile
+221012,49585,artist,artist,"Mexican, 1919 - 1996",1919,1996,NULL,NULL,NULL,"Antonio Reynoso",1,1919,1996,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+216620,49585,artist,artist,"Mexican, 1919 - 1996",1919,1996,NULL,NULL,NULL,"Antonio Reynoso",1,1919,1996,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+217334,49729,artist,"artist after","Brazilian, born Mexico, 1852 - 1931",1852,1931,NULL,NULL,NULL,"Rodolfo Bernardelli",1,1852,1931,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+218532,50060,artist,artist,"Venezuelan, 1933 - 1984",1933,1984,NULL,NULL,NULL,"Héctor Rondón Lovera",1,1933,1984,Venezuelan,individual,Venezuelan,0,VE,SA,"Venezuela, Bolivarian Republic of"
+219357,50386,artist,artist,"Brazilian, 1929 - 2018",1929,2018,NULL,NULL,NULL,"Dulce Carneiro",1,1929,2018,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+219519,50468,artist,painter,"Nicaraguan, born 1935",1935,NULL,NULL,NULL,500578105,"Alejandro Aróstegui",1,1935,NULL,Nicaraguan,individual,Nicaraguan,0,NI,NoAm,Nicaragua
+221464,51053,artist,painter,"Colombian, born 1982",1982,NULL,NULL,NULL,NULL,"María Berrío",1,1982,NULL,Colombian,individual,Colombian,0,CO,SA,Colombia
+221938,51179,artist,artist,"Mexican, born 1950",1950,NULL,NULL,NULL,500294017,"Yolanda Andrade",1,1950,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+221940,51179,artist,artist,"Mexican, born 1950",1950,NULL,NULL,NULL,500294017,"Yolanda Andrade",1,1950,NULL,Mexican,individual,Mexican,0,MX,NoAm,Mexico
+222827,51620,artist,artist,"Brazilian, born 1968",1968,NULL,NULL,NULL,500332855,"Sandra Cinto",1,1968,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+222828,51620,artist,artist,"Brazilian, born 1968",1968,NULL,NULL,NULL,500332855,"Sandra Cinto",1,1968,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+222829,51620,artist,artist,"Brazilian, born 1968",1968,NULL,NULL,NULL,500332855,"Sandra Cinto",1,1968,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+222832,51620,artist,artist,"Brazilian, born 1968",1968,NULL,NULL,NULL,500332855,"Sandra Cinto",1,1968,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+222830,51620,artist,artist,"Brazilian, born 1968",1968,NULL,NULL,NULL,500332855,"Sandra Cinto",1,1968,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
+222831,51620,artist,artist,"Brazilian, born 1968",1968,NULL,NULL,NULL,500332855,"Sandra Cinto",1,1968,NULL,Brazilian,individual,Brazilian,0,BR,SA,Brazil
