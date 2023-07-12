@@ -7,6 +7,6 @@ import numpy as np
 import pycountry
 import pycountry_convert as pc
 import random
-
+#this should be taken as non_latin_art.csv from scripts/source-sql
 nonLa_art = pd.read_csv('../../data_samples/results/whole_set_results/pa_nonLa_art.csv')
 la_geographicStatistics = pd.read_csv('../../data_samples/la_geographicStatistics.csv')
