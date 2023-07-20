@@ -1,12 +1,12 @@
-demonym,pct_country_NGA,Country,Continent,Country Name,Continent Name
-Mexican,0.5964912280701754,MX,NoAm,Mexico,North America
-Brazilian,0.10818713450292397,BR,SA,Brazil,South America
-Argentinean,0.07894736842105263,AR,SA,Argentina,South America
-Guatemalan,0.07602339181286549,GT,NoAm,Guatemala,North America
-Chilean,0.06140350877192982,CL,SA,Chile,South America
-Venezuelan,0.04678362573099415,VE,SA,"Venezuela, Bolivarian Republic of",South America
-Cuban,0.008771929824561403,CU,NoAm,Cuba,North America
-Peruvian,0.008771929824561403,PE,SA,Peru,South America
-Colombian,0.005847953216374269,CO,SA,Colombia,South America
-Uruguayan,0.005847953216374269,UY,SA,Uruguay,South America
-Nicaraguan,0.0029239766081871343,NI,NoAm,Nicaragua,North America
+Continent Name,countries_present,proportion_of_continent,pct_continent_NGA,demonym,pct_country_NGA,Country,Continent,Country Name,countries_missing
+North America,4,0.1,0.0011603862003302637,Mexican,0.0010116187387494606,MX,NoAm,Mexico,36
+North America,4,0.1,0.0011603862003302637,Guatemalan,0.00012893180003669598,GT,NoAm,Guatemala,36
+North America,4,0.1,0.0011603862003302637,Cuban,1.4876746158080304e-05,CU,NoAm,Cuba,36
+North America,4,0.1,0.0011603862003302637,Nicaraguan,4.9589153860267686e-06,NI,NoAm,Nicaragua,36
+South America,7,0.4666666666666667,0.000535562861690891,Brazilian,0.00018347986928299043,BR,SA,Brazil,8
+South America,7,0.4666666666666667,0.000535562861690891,Argentinean,0.00013389071542272275,AR,SA,Argentina,8
+South America,7,0.4666666666666667,0.000535562861690891,Chilean,0.00010413722310656214,CL,SA,Chile,8
+South America,7,0.4666666666666667,0.000535562861690891,Venezuelan,7.93426461764283e-05,VE,SA,"Venezuela, Bolivarian Republic of",8
+South America,7,0.4666666666666667,0.000535562861690891,Peruvian,1.4876746158080304e-05,PE,SA,Peru,8
+South America,7,0.4666666666666667,0.000535562861690891,Uruguayan,9.917830772053537e-06,UY,SA,Uruguay,8
+South America,7,0.4666666666666667,0.000535562861690891,Colombian,9.917830772053537e-06,CO,SA,Colombia,8
