@@ -1,6 +1,7 @@
 #! /bin/bash
+cd ./add_nonLaArt
 #this line creates the initial table & features
-#python3 extract_nonLaArt.py
+python3 extract_nonLaArt.py
 
 #the directory needs to be created before the downloads-
 #this line downloads the images and moves them into the above

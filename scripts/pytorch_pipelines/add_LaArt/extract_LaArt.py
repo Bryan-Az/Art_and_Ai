@@ -1,6 +1,7 @@
 ### Step 1 of the La Art Pipeline
 ### Input is 3 files: (1) constituent_nationalities.csv (2) latin_art.csv
 ### Output is 2 files: la_geographicStatistics.csv & latinamerican_art.csv
+print('extract_LaArt.py started.')
 import pandas as pd
 import numpy as np
 import pycountry
@@ -49,8 +50,10 @@ artist_origin.columns = ['demonym', 'pct_country_NGA']
 # Important: This file is used to add geographic data to other tables in DB
 la_geographicStatistics = pd.merge(artist_origin, latins, how='inner', on ='demonym')
 la_geographicStatistics.to_csv('../../../data_samples/LaArt/la_geographicStatistics.csv')
-latinamerican_art = pd.read_csv('../../../data_samples/LaArt/la_art_tables/latin_art.csv', on_bad_lines='skip')
-# SQL Ran: (1) latin_art_people.sql (2) latin_art_urls.sql (3) latin_art.sql
+print('Saved the la_geographicStatistics.csv file to ../../../data_samples/LaArt/')
+latinamerican_art = pd.read_csv('../../../data_samples/LaArt/latinamerican_art.csv', on_bad_lines='skip')
 #converts the iiifurl to return the full image size
-latinamerican_art['expanded_url'] = latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', '!256,256'))
+latinamerican_art['expanded_url'] = latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', '!640,640'))
 latinamerican_art.to_csv('../../../data_samples/LaArt/latinamerican_art.csv', index=False)
+print('Saved the latinamerican_art.csv file to ../../../data_samples/LaArt/')
+print('extract_LaArt.py finished.')
