@@ -9,16 +9,14 @@ import time
 # 1 Input: (1) latinamerican_art.csv
 # 2 Output: (1) latinamerican_art.csv (2) la_image_fpaths.csv (3) validLa_image_fpaths.csv
 #import the metadata for La Art (this is a result of a MySql Database query script) with minor modifications
-la_image_metadata = pd.read_csv('../data_samples/LaArt/latinamerican_art.csv')
+la_image_metadata = pd.read_csv('../../../data_samples/LaArt/latinamerican_art.csv')
 shape_initial = la_image_metadata.shape
-#dropping unneccessary columns (1 removed)
-la_image_metadata = la_image_metadata.drop(['accessioned'], axis = 1)
 #dropping unneccessary rows (1 removed)
 la_image_metadata = la_image_metadata.where(la_image_metadata.title.apply(pd.notna)).dropna(how='all')
 la_image_metadata = la_image_metadata.where(la_image_metadata.forwarddisplayname.apply(pd.notna)).dropna(how='all')
 la_image_metadata = la_image_metadata.where(la_image_metadata.objectid.apply(pd.notna)).dropna(how='all')
-# adding expected file name
-la_image_metadata['file_name'] = la_image_metadata['title'].apply(lambda x: x.replace(' ','_').replace('/', '&')) + '_' + la_image_metadata['forwarddisplayname'].apply(lambda x: x.replace(' ', '_').replace('/', '&')) + '_' + la_image_metadata['objectid'].apply(lambda x: str(int(x)) + '.jpg')
+# adding expected file name (limiting title to 100 characters and concatenating it with forwardisplayname and objectid to create UUID filepath)
+la_image_metadata['file_name'] = la_image_metadata['title'].apply(lambda x: x.replace(' ','_').replace('/', '&')).apply(lambda x: x[:100]) + '_' + la_image_metadata['forwarddisplayname'].apply(lambda x: x.replace(' ', '_').replace('/', '&')) + '_' + la_image_metadata['objectid'].apply(lambda x: str(int(x)) + '.jpg')
 #adding the expected root directory of the image files
 la_image_directory = '../latinamerican-2-imagefolder-split/'
 la_image_metadata['directory'] = [la_image_directory] * len(la_image_metadata)
@@ -36,13 +34,8 @@ shape_change_1 = la_image_metadata.shape
 print('Shape starting: ', shape_initial)
 print('Shape after edit 1: ', shape_change_1)
 
-#predownload table selects necessary cols to download the images send to location
-# saves the selected parts to a new csv file to run the download script portion of downloadLa
-la_image_fpaths = la_image_metadata.loc[:, ['expanded_url', 'file_name', 'image_fp', 'objectid']]
-la_image_fpaths.to_csv('../data_samples/LaArt/la_image_fpaths.csv', index=False)
-print('CSV Created: ../data_samples/LaArt/la_image_fpaths.csv')
-la_image_metadata.to_csv('../data_samples/LaArt/latinamerican_art.csv', index=False)
-print('CSV Edited: ../data_samples/LaArt/latinamerican_art.csv')
+# selects the features relevant to run the download script
+la_image_fpaths = la_image_metadata.loc[:, ['objectid', 'directory','subfolder','file_name', 'image_fp']]
 
 ## for next code section in notebook, images will be downloaded
 ## I assume no images are downloaded & image_fp/directory not created
@@ -74,24 +67,27 @@ for i in range(0, len(la_image_fpaths)):
     download_image(expanded_url, fp, file_name, ua_header)
     
 #checking that the filepath / naming conventions I used are consistent
-#from os.path import exists
+from os.path import exists
 file_exists = []
-for i in range(len(la_image_metadata)):
-    directory = la_image_metadata.directory[i]
-    subfolder = la_image_metadata.subfolder[i]
-    filename = la_image_metadata.file_name[i]
-    full = directory + subfolder + '/' + filename
-    file_exists.append(exists(full))
+for i in range(len(la_image_fpaths)):
+    file_exists.append(exists(la_image_fpaths.image_fp[i]))
+la_image_fpaths['file_downloaded'] = file_exists
 
-file_exists = pd.Series(file_exists, name='imagefp_exists')
-la_image_metadata['imagefp_exists'] = file_exists
+presentLa_image_fpaths = la_image_fpaths.where(la_image_fpaths.file_downloaded == True).dropna(how='all')
 
-#post download- columns added to explain directory & validate location
-la_image_fpaths = la_image_metadata.loc[:, ['expanded_url', 'file_name', 'directory', 'subfolder','image_fp', 'imagefp_exists', 'objectid']]
-la_image_fpaths.to_csv('../data_samples/LaArt/la_image_fpaths.csv', index=False)
+missingLa_image_fpaths = la_image_fpaths.where(la_image_fpaths.file_downloaded == False).dropna(how='all')
 
-perc_exists = file_exists.sum()/len(file_exists)
-total = 341
+#saving the image fp data for use with the model
+presentLa_image_fpaths.to_csv('../../../data_samples/LaArt/presentLa_image_fpaths.csv', index=False)
+missingLa_image_fpaths.to_csv('../../../data_samples/LaArt/missingLa_image_fpaths.csv', index=False)
+print('CSV Created: ../../../data_samples/LaArt/presentLa_image_fpaths.csv')
+print('CSV Created: ../../../data_samples/LaArt/missingLa_image_fpaths.csv')
+la_image_metadata.to_csv('../../../data_samples/LaArt/latinamerican_art.csv', index=False)
+print('CSV Edited: ../../../data_samples/LaArt/latinamerican_art.csv')
+
+perc_exists = la_image_fpaths.file_downloaded.sum()/len(file_exists)
+total = la_image_fpaths.shape[0]
 whole_num_exists = perc_exists * total
 text = 'The amount of images downloaded is {} percent. Which means {} is amount downloaded, out of {} in latinamerican_art.csv'
 print(text.format(perc_exists, whole_num_exists, total))
+print("download_LaArt.py finished.")

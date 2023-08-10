@@ -92,7 +92,7 @@ non_latinamerican_art['expanded_url'] = non_latinamerican_art.iiifthumburl.apply
 # After merging the main non_latinamerican_art dataset with the external geographical information that I created, I will write the updated dataset back to the original filepath and overwrite it as it contains valuable information
 ### Step 3 - Sampling from the large dataset for batch training
 #Sampling from the full dataset (200073 rows), 16003 rows for training (0.08%) & 401 (0.02%) for validation/testing == 16404 total for one iteration of sample (1/10 of total dataset) // make sure not being selected with replacement to remove duplicates
-matching_distribution = np.random.choice(non_latinamerican_art.index, p= non_latinamerican_art.pct_country_NGA / non_latinamerican_art.pct_country_NGA.sum(), size=16404, replace=False)
+matching_distribution = np.random.choice(non_latinamerican_art.index, p= non_latinamerican_art.pct_continent_NGA / non_latinamerican_art.pct_continent_NGA.sum(), size=16404, replace=False)
 index_matching = list(matching_distribution)
 subsample_nonla = non_latinamerican_art.iloc[index_matching, :]
 subsample_geography = subsample_nonla.groupby('Country Name').apply(lambda x: len(x))
