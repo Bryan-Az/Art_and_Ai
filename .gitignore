@@ -24,3 +24,4 @@
 .ipynb_checkpoints/README-checkpoint.md
 /data_samples/art_tables/
 /data_samples/art_tables_test/
+*.jupyterlab-workspace
