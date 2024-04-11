@@ -12,13 +12,14 @@ import time
 la_image_metadata = pd.read_csv('../../../data_samples/LaArt/latinamerican_art.csv')
 shape_initial = la_image_metadata.shape
 #dropping unneccessary rows (1 removed)
+la_image_metadata = la_image_metadata.drop_duplicates()
 la_image_metadata = la_image_metadata.where(la_image_metadata.title.apply(pd.notna)).dropna(how='all')
 la_image_metadata = la_image_metadata.where(la_image_metadata.forwarddisplayname.apply(pd.notna)).dropna(how='all')
 la_image_metadata = la_image_metadata.where(la_image_metadata.objectid.apply(pd.notna)).dropna(how='all')
 # adding expected file name (limiting title to 100 characters and concatenating it with forwardisplayname and objectid to create UUID filepath)
 la_image_metadata['file_name'] = la_image_metadata['title'].apply(lambda x: x.replace(' ','_').replace('/', '&')).apply(lambda x: x[:100]) + '_' + la_image_metadata['forwarddisplayname'].apply(lambda x: x.replace(' ', '_').replace('/', '&')) + '_' + la_image_metadata['objectid'].apply(lambda x: str(int(x)) + '.jpg')
 #adding the expected root directory of the image files
-la_image_directory = '../latinamerican-2-imagefolder-split/'
+la_image_directory = '../../../data_samples/latinamerican-2-imagefolder-split/'
 la_image_metadata['directory'] = [la_image_directory] * len(la_image_metadata)
 #subfolder split (train 70% /test 30%) need to be identified randomly
 train_data, test_data = train_test_split(la_image_metadata, test_size=0.3)
@@ -35,7 +36,7 @@ print('Shape starting: ', shape_initial)
 print('Shape after edit 1: ', shape_change_1)
 
 # selects the features relevant to run the download script
-la_image_fpaths = la_image_metadata.loc[:, ['objectid', 'directory','subfolder','file_name', 'image_fp']]
+la_image_fpaths = la_image_metadata.loc[:, ['expanded_url', 'objectid', 'directory','subfolder','file_name', 'image_fp']]
 
 ## for next code section in notebook, images will be downloaded
 ## I assume no images are downloaded & image_fp/directory not created

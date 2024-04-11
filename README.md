@@ -5,6 +5,7 @@ Keywords: Style Transfer/Interpolation, text-to-image generation.
 
 To unpack the data and the models:
 
+
 Scripts are stored in the Art_and_Ai/scripts directory, where exists:
 1. The bash script in the source_sql directory which runs code that:
     1.  Sets the project working directory.

@@ -9,10 +9,13 @@ import scipy.stats as stats
 ### Step 3: Cleaning the data for input into a M.L algorithm.
 # 2 Input: (1) latinamerican_art.csv, (2) validLa_image_fpaths.csv
 # 1 Output: (1) transformed_la_art.csv
-latinamerican_art = pd.read_csv('../data_samples/LaArt/latinamerican_art.csv')
-imagefp_exists = pd.read_csv('../data_samples/LaArt/validLa_image_fpaths.csv')
-
-stored_la_art = imagefp_exists.where(imagefp_exists.imagefp_exists == True).dropna(how='all')
+latinamerican_art = pd.read_csv('../../../data_samples/LaArt/latinamerican_art.csv')
+latinamerican_art = latinamerican_art.drop_duplicates()
+latinamerican_art.reset_index(drop = True, inplace=True)
+imagefp_exists = pd.read_csv('../../../data_samples/LaArt/presentLa_image_fpaths.csv')
+imagefp_exists = imagefp_exists.drop_duplicates()
+imagefp_exists.reset_index(drop = True, inplace=True)
+stored_la_art = imagefp_exists.where(imagefp_exists.file_downloaded == True).dropna(how='all')
 stored_la_art.reset_index(drop = True, inplace=True)
 
 valid_image_paths = stored_la_art.shape[0]
@@ -20,8 +23,7 @@ la_art_total = latinamerican_art.shape[0]
 print('After step 2: downloading, the amount of latin american images downloaded and successfully stored is {} out of {} starting records. The '.format(valid_image_paths, la_art_total))
 
 # Creating a new table of latinamerican art with valid fpaths
-latinamerican_art_stored = pd.merge(left=latinamerican_art, right=stored_la_art, on = 'objectid', how = 'inner')
-
+latinamerican_art_stored = pd.merge(left=latinamerican_art, right=stored_la_art, on = ['objectid', 'subfolder','image_fp', 'file_name', 'directory', 'expanded_url'], how = 'inner')
 ### Feature Engineering
 ### 1. text_classification notebook in TorchTextModel TBD
 ### 2. image_classification notebook tbd
@@ -88,13 +90,13 @@ numerical_cols = ['log_width', 'log_height', 'log_percent_by_artist']
 numerical_data = latinamerican_art_stored.loc[:, numerical_cols]
 
 ### Saving Final Collection of Transformed Data
-imagefp_features = ['imagefp_exists','objectid']
+imagefp_features = ['file_downloaded','objectid']
 la_image_data = latinamerican_art_stored.loc[:, imagefp_features]
 print('Merging the following: ')
 print('imagefp data shape: ', la_image_data.shape)
 print('one-hot data shape: ', oh_collection.shape)
 print('numerical data shape: ', numerical_data.shape)
 transformed_data = pd.concat([la_image_data, oh_collection, numerical_data], axis=1)
-transformed_data.to_csv('../data_samples/LaArt/transformed_la_art.csv', index=False)
-print('CSV Created: ../data_samples/LaArt/transformed_la_art.csv')
-print('Final shape of transformed data (including imagefp_exists and objectid columns)', transformed_data.shape)
+transformed_data.to_csv('../../../data_samples/LaArt/transformed_la_art.csv', index=False)
+print('CSV Created: ../../../data_samples/LaArt/transformed_la_art.csv')
+print('Final shape of transformed data (including file_downloaded and objectid columns)', transformed_data.shape)
