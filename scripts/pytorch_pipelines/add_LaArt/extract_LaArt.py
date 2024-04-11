@@ -10,6 +10,7 @@ import matplotlib
 
 nationalities = pd.read_csv('../../../data_samples/LaArt/constituents_nationalities.csv')
 artist_origin = nationalities.value_counts(normalize=True)
+latinamerican_art = pd.read_csv('../../../data_samples/LaArt/latinamerican_art.csv', low_memory =False, on_bad_lines='skip')
 
 ### List of American Continent Codes for Determining which Latin American countries are present in the Gallery (cleaning)
 cname_alpha_2 = []
@@ -50,8 +51,10 @@ artist_origin.columns = ['demonym', 'pct_country_NGA']
 # Important: This file is used to add geographic data to other tables in DB
 la_geographicStatistics = pd.merge(artist_origin, latins, how='inner', on ='demonym')
 la_geographicStatistics.to_csv('../../../data_samples/LaArt/la_geographicStatistics.csv')
+#inner join of la_geographicStatistics and non_latinamerican_art
+latinamerican_art = pd.merge(latinamerican_art, la_geographicStatistics, how='inner', left_on='nationality',right_on='demonym')
+
 print('Saved the la_geographicStatistics.csv file to ../../../data_samples/LaArt/')
-latinamerican_art = pd.read_csv('../../../data_samples/LaArt/latinamerican_art.csv', on_bad_lines='skip')
 #converts the iiifurl to return the full image size
 latinamerican_art['expanded_url'] = latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', '!640,640'))
 latinamerican_art.to_csv('../../../data_samples/LaArt/latinamerican_art.csv', index=False)

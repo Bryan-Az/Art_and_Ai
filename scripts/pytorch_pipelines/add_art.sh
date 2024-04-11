@@ -7,4 +7,3 @@ mkdir '../latinamerican-2-imagefolder-split/test'
 bash ./add_LaArt/add_LaArt.sh
 #this line runs the nonlaart pipe
 bash ./add_nonLaArt/add_nonLaArt.sh
-git statu

@@ -21,7 +21,7 @@ shape_initial = nonLa_image_metadata_sample.shape
 #### adding expected file name (limiting title to 100 characters and concatenating it with forwardisplayname and objectid to create UUID filepath)
 nonLa_image_metadata_sample['file_name'] = nonLa_image_metadata_sample['title'].apply(lambda x: x.replace(' ','_').replace('/', '&')).apply(lambda x: x[:100]) + '_' + nonLa_image_metadata_sample['forwarddisplayname'].apply(lambda x: x.replace(' ', '_').replace('/', '&')) + '_' + nonLa_image_metadata_sample['objectid'].apply(lambda x: str(int(x)) + '.jpg')
 #### adding the expected root directory of the image files
-la_image_directory = '../../../latinamerican-2-imagefolder-split/'
+la_image_directory = '../../../data_samples/latinamerican-2-imagefolder-split/'
 nonLa_image_metadata_sample['directory'] = [la_image_directory] * len(nonLa_image_metadata_sample)
 #### subfolder split (train 80% /test 20%) need to be identified randomly
 train_data, test_data = train_test_split(nonLa_image_metadata_sample, test_size=0.2)
@@ -66,7 +66,6 @@ for i in range(0, len(nonLa_image_metadata_sample)):
     # timer delay (15 seconds)
     time.sleep(15)
     download_image(expanded_url, fp, file_name, ua_header)
-    
 ### Verifying File Names Correspond to the Dataset (Some Images Unable to be Downloaded)
 #checking that the filepath / naming conventions I used are consistent
 file_exists = []

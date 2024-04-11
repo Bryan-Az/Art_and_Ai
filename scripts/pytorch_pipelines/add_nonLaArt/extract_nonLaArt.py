@@ -85,14 +85,14 @@ nonla_geographicStatistics = pd.merge(nonla_geographicStatistics, nonla_continen
 nonla_continentCounts.reset_index(drop=False, inplace=True)
 nonla_geographicStatistics = pd.merge(nonla_continentCounts, nonla_geographicStatistics, on='Continent Name')
 #inner join of nonla_geographicStatistics and non_latinamerican_art
-non_latinamerican_art = pd.merge(non_latinamerican_art, nonla_geographicStatistics, how='inner',left_on='nationality', right_on='demonym')
+non_latinamerican_art = pd.merge(non_latinamerican_art, nonla_geographicStatistics, how='inner', left_on='nationality', right_on='demonym')
 #### Feature Engineering IIIFUrl Links to view the data at the desired resolution
 #converts the iiifurl to return the full image size
 non_latinamerican_art['expanded_url'] = non_latinamerican_art.iiifthumburl.apply(lambda x: x.replace('!200,200', '!640,640'))
 # After merging the main non_latinamerican_art dataset with the external geographical information that I created, I will write the updated dataset back to the original filepath and overwrite it as it contains valuable information
 ### Step 3 - Sampling from the large dataset for batch training
-#Sampling from the full dataset (200073 rows), 16003 rows for training (0.08%) & 401 (0.02%) for validation/testing == 16404 total for one iteration of sample (1/10 of total dataset) // make sure not being selected with replacement to remove duplicates
-matching_distribution = np.random.choice(non_latinamerican_art.index, p= non_latinamerican_art.pct_continent_NGA / non_latinamerican_art.pct_continent_NGA.sum(), size=16404, replace=False)
+#Sampling from the full dataset (200073 rows), 500 rows for training  & 200 (for validation/testing == 700 total for one iteration of sample (1/100 of total dataset) // make sure not being selected with replacement to remove duplicates
+matching_distribution = np.random.choice(non_latinamerican_art.index, p= non_latinamerican_art.pct_continent_NGA / non_latinamerican_art.pct_continent_NGA.sum(), size=700, replace=False)
 index_matching = list(matching_distribution)
 subsample_nonla = non_latinamerican_art.iloc[index_matching, :]
 subsample_geography = subsample_nonla.groupby('Country Name').apply(lambda x: len(x))
@@ -100,8 +100,8 @@ subsample_geography = pd.DataFrame({'counts': subsample_geography,'proportion':s
 ### Using the normalized probabilities in pct_continent_NGA to sample 10%, made the sample a little less representative to overall dataset. Since this is only a 10% sample, it is not fully representative, but I expect to train with more samples/batches.
 subsample_geography.sort_values(by='proportion', ascending=False)
 ### Step 3 - Outputting the final combined NGA/FE data
-non_latinamerican_art.to_csv('../../../data_samples/nonLaArt/non_latinamerican_art.csv', index=False)
-print('Saved the file non_latinamerican_art.csv file to ../../../data_samples/nonLaArt')
+non_latinamerican_art.to_csv('../../../data_samples/nonLaArt/modified_non_latinamerican_art.csv', index=False)
+print('Saved the file modified_non_latinamerican_art.csv file to ../../../data_samples/nonLaArt')
 subsample_nonla.reset_index(drop=True, inplace=True)
 nonla_geographicStatistics.to_csv('../../../data_samples/nonLaArt/nonla_geographicStatistics.csv', index=False)
 print('Saved the nonla_geographicStatistics.csv file to ../../../data_samples/nonLaArt/')
